@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+## I'm Felipe Rigo
+
+- Blog: https://blog.felipevr.eti.br
+- Contact: github at felipevr.eti.br
+
+![Liscano GitHub stats](https://github-readme-stats.vercel.app/api?username=felipevr&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipevr)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **felipevr/felipevr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
